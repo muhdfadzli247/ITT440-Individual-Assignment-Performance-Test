@@ -141,7 +141,7 @@ Based on the empirical evidence gathered, specifically the latency degradation o
 ## 8.0 Video Presentation
 A detailed walkthrough of the test execution, configuration, and result analysis can be viewed in the following video:
 
-[**CLICK HERE TO WATCH VIDEO PRESENTATION**]([LETAK LINK YOUTUBE ANDA DI SINI])
+https://youtu.be/-bsUShWG5lw 
 
 ---
 
