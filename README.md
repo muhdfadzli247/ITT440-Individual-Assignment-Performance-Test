@@ -1,10 +1,10 @@
 # Comprehensive Web Application Performance Testing: Blazedemo.com
 
-**Name:** Muhammad Fadzli Bin Mohd Sahid
-**Student ID:**  2023234642
-**Group:** NBCS2555A
-**Course:** ITT440 - Network Programming
-**Lecturer:** Sir Shahadan Bin Saad
+* **Name:** Muhammad Fadzli Bin Mohd Sahid
+* **Student ID:** 2023234642
+* **Group:** NBCS2555A
+* **Course:** ITT440 - Network Programming
+* **Lecturer:** Sir Shahadan Bin Saad
 
 ---
 
